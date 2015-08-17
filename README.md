@@ -1,4 +1,4 @@
-# MoonShot_Guitar_Build
+# MoonShot Guitar Build
 
 From time to time at Team One we have speakers come in and tell us about the awesome work they have been a part of. At this event we had speaker Brent Bushnell from Two Bit Circus. Two Bit Circus does really cool builds to help kids learn core principles in an interesting interactive way. 
 
