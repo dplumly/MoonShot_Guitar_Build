@@ -21,11 +21,11 @@ Final Build
 ![Schematic](https://github.com/dplumly/MoonShot_Guitar_Build/blob/master/img/guitars.jpg)
 
 ----------
-Schematic for the highstriker
+Schematic for the High Striker
 ![Schematic](https://github.com/dplumly/MoonShot_Guitar_Build/blob/master/img/Hightstriker_bb.jpg)
 
 ----------
-Drum of Hightstriker
+Drum of High Striker
 ![Schematic](https://github.com/dplumly/MoonShot_Guitar_Build/blob/master/img/drum.jpg)
 
 ----------
